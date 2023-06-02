@@ -6,7 +6,7 @@ body {
   background-color: lightblue;
   background-image: url('OIP.jpg');
   background-size: cover;
-  background-position: center;
+  //background-position: center;
 }
 
 h1 {
